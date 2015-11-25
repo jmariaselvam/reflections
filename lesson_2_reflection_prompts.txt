@@ -1,2 +1,2 @@
-How did viewing a diff between two versions of a file help you see the bug that
-was introduced?
+How can you use the staging area to make sure you have one commit per logical change?
+Add files related to a logical change to the staging area at different times.
